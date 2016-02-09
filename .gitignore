@@ -2,3 +2,4 @@ __pycache__
 /myvenv/Lib
 /myvenv/Scripts
 /db.sqlite3
+/mysite/local_settings.py
